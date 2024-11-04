@@ -36,3 +36,20 @@ section{
 .side2{
     clip-path: polygon(100% 0, 55% 1%, 24% 11%, 56% 13%, 35% 26%, 57% 37%, 30% 41%, 58% 51%, 27% 59%, 55% 70%, 28% 77%, 60% 86%, 30% 91%, 66% 97%, 100% 100%);
 }
+
+.content {
+    background:lightgrey;
+    color: black;
+    padding: 100px;
+    padding-top: 150vh;
+}
+
+.content h2 {
+    position: relative;
+    font-size: 6em;
+}
+
+.content p {
+    position: relative;
+    font-size: 1.5em;
+}
